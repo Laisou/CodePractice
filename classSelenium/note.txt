@@ -1,0 +1,15 @@
+安裝的步驟可以看影片: 
+    Selenium 自動化測試教學 EP2 - 安裝和設定 (影片長度:6:10)
+    https://youtu.be/vcUM1x9St5I?si=jDSTEZzXrv52WuNn 
+1.python 使用Mac的同學可參考:
+    給自學者的Python教學(0) : 如何安裝Python(Mac/Windows)
+    https://chunyeung.medium.com/%E7%B5%A6%E8%87%AA%E5%AD%B8%E8%80%85%E7%9A%84python%E6%95%99%E5%AD%B8-1-%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9Dpython-126f8ce2f967
+2.selenium
+3.pytest (這次工作坊不會用到，可以跳過)
+4.如果使用vscode，可安裝以下套件:Pylint、Block Formatter、isort
+
+「test.py」是學長提供的腳本
+
+補充:
+工作坊是使用python作為測試腳本的程式語言，selenium提供了不同語言的選項: C#、Ruby、Java、Python、Javascript，未來大家在專題或工作上可以選擇自己比較熟悉的程式語言來撰寫腳本:
+https://www.selenium.dev/downloads/
