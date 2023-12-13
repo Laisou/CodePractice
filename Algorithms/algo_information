@@ -1,0 +1,75 @@
+2023/12/08
+
+python-machine-learning-book-3rd-edition
+https://github.com/rasbt/python-machine-learning-book-3rd-edition
+xor ch02
+
+MNIST Dataset in Python - Basic Importing and Plotting
+https://www.digitalocean.com/community/tutorials/mnist-dataset-in-python#what-is-the-mnist-dataset
+
+Simple MNIST convnet
+https://keras.io/examples/vision/mnist_convnet/
+
+keras-team/keras-io
+https://github.com/keras-team/keras-io/blob/master/examples/vision/mnist_convnet.py
+
+deep-learning-with-keras-notebooks
+https://github.com/erhwenkuo/deep-learning-with-keras-notebooks
+https://github.com/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.6-mnist-recognition-mlp.ipynb
+
+2023/12/01
+
+去github 找 Python Machine Learning: machine learning and deep learning with python, transflow
+https://github.com/topics/machine-learning-python
+https://github.com/tirthajyoti/Machine-Learning-with-Python
+https://github.com/rasbt/python-machine-learning-book-3rd-edition
+https://github.com/fchollet/deep-learning-with-python-notebooks
+
+MIT Deep Learning 6.S191
+http://introtodeeplearning.com/
+
+Adder (electronics)
+https://en.wikipedia.org/wiki/Adder_(electronics)
+
+XOR gate
+https://en.wikipedia.org/wiki/XOR_gate
+
+Understanding Basics of Deep Learning by solving XOR problem
+https://medium.com/analytics-vidhya/understanding-basics-of-deep-learning-by-solving-xor-problem-cb3ff6a18a06
+
+Activation function
+https://en.wikipedia.org/wiki/Activation_function
+
+2023/11/24
+
+使用 pip 安裝 TensorFlow
+https://www.tensorflow.org/install/pip?hl=zh-tw#windows
+
+
+kaggle
+Intro to Deep Learning
+https://www.kaggle.com/
+https://www.kaggle.com/learn/intro-to-deep-learning
+
+A Single Neuron
+https://www.kaggle.com/code/ryanholbrook/a-single-neuron
+
+Deep Neural Networks
+https://www.kaggle.com/code/ryanholbrook/deep-neural-networks
+
+A Neural Network Playground
+https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.79932&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+激勵函數
+https://zh.wikipedia.org/zh-tw/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0
+
+S型函數
+https://zh.wikipedia.org/zh-tw/S%E5%9E%8B%E5%87%BD%E6%95%B0
+
+
+simple xor learning with keras
+https://gist.github.com/stewartpark/187895beb89f0a1b3a54
+//有做
+
+simple MNIST convnet
+https://keras.io/examples/vision/mnist_convnet/
