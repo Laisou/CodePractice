@@ -1,3 +1,47 @@
+2023/12/15
+Neural Network solving XOR
+    kaggle
+    https://www.kaggle.com/code/ilanguenet/neural-network-solving-xor
+
+Dive into Deep Learning
+    書
+    中文
+    https://zh.d2l.ai/
+    英文
+    https://d2l.ai/
+    11.3 梯度下降
+    https://zh.d2l.ai/chapter_optimization/gd.html
+
+Stochastic Gradient Descent
+    隨機梯度下降
+    kaggle
+    https://www.kaggle.com/code/ryanholbrook/stochastic-gradient-descent
+
+神经网络与深度学习
+    書
+    https://nndl.github.io/
+    2.2.3.1 梯度下降法-----會考!!!
+    https://nndl.github.io/nndl-book.pdf
+
+Intro to Deep Learning
+    最好進行練習
+    https://www.kaggle.com/learn/intro-to-deep-learning
+
+
+Iris flower data set
+    https://en.wikipedia.org/wiki/Iris_flower_data_set
+
+深度學習 用iris 練習
+    機器學習資料集 - Iris dataset
+        https://blog.yeshuanova.com/2018/10/dataset-iris/
+
+    项目：多类花朵分类
+        https://cnbeining.github.io/deep-learning-with-python-cn/3-multi-layer-perceptrons/ch10-project-multiclass-classification-of-flower-species.html
+    
+    老師給的
+    Keras Multi-class Classification using IRIS Dataset
+        https://vitalflux.com/keras-multi-class-classification-using-iris-dataset/
+
 2023/12/08
 
 python-machine-learning-book-3rd-edition
@@ -16,6 +60,9 @@ https://github.com/keras-team/keras-io/blob/master/examples/vision/mnist_convnet
 deep-learning-with-keras-notebooks
 https://github.com/erhwenkuo/deep-learning-with-keras-notebooks
 https://github.com/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.6-mnist-recognition-mlp.ipynb
+
+
+
 
 2023/12/01
 
