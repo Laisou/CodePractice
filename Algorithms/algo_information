@@ -2,6 +2,16 @@
 實作Keras Multi-class Classification using IRIS Dataset
     用jupyter
 
+深度學習的第一堂課
+    https://www.tyrc.edu.tw/data/teach/lecture/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A0%82%E8%AA%B2.pdf
+
+CNN RNN DNN transformer 区别以及音频信号处理适合方式
+    https://blog.csdn.net/xinbo7077/article/details/134427981
+        CNN    影像、空間
+        RNN    時間
+        DNN
+        transformer
+
 2023/12/15
 Neural Network solving XOR
     kaggle
